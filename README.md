@@ -7,9 +7,9 @@
     <a href="https://github.com/orgs/SIAM-VIT/repositories?q=mpl"><strong>Explore other MPL repositories</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SIAM-VIT/MPL-treasurehunt-clues/issues">Report Bug</a>
+    <a href="https://github.com/SIAM-VIT/mpl-25-r1-fe/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SIAM-VIT/MPL-treasurehunt-clues/issues">Request Feature</a>
+    <a href="https://github.com/SIAM-VIT/mpl-25-r1-fe/issues">Request Feature</a>
   </p>
 </div>
 
